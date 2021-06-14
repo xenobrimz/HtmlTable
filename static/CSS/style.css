@@ -1,0 +1,14 @@
+*{
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+#wrapper{
+    display: flex;
+    align-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
